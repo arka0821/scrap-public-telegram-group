@@ -1,0 +1,7 @@
+api_id: 123456 # This has to be an integer.
+api_hash: 'xxxxxxxxxxx' # Long 32 characters hash identifier.
+session_name: 'memberExtractor' # Session name.
+phone_number: 0000000000
+sleep_time: 20
+
+message: ""
